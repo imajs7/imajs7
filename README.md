@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-![](https://github.com/imajs7/imajs7/blob/main/my-git-cover.png)
+I'm a software engineer working as a freelance developer for the last five  years. Developing web apps for ecommerce and other businesses. Hosting and managing webistes using Cloud Infrastructure leveraging the power of Jenkins & Docker.
 
-
-
-
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating problem solving technology, and building a community of enthusiast tech-learners. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I started a tech company <a href="https://jsmedia7.in/">JSMedia7 - Web Solutions</a> to build effective end user web apps.
-
+<!-- ![](https://github.com/imajs7/imajs7/blob/main/my-git-cover.png) -->
 
 ## Find me around the web 🌎: 
 
