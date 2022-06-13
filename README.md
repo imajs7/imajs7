@@ -4,6 +4,12 @@ I'm a software engineer working as a freelance developer for the last five  year
 
 <!-- ![](https://github.com/imajs7/imajs7/blob/main/my-git-cover.png) -->
 
+## Projects
+
+| Title | Description | Technologies Used | Link |
+| ------ | ----------- | ----------------- | ----- |
+| Invoicing System   | Invoicing System for small business | Java, Springboot, MySql, ReactJS, Redux, Restfull API |
+
 ## Find me around the web 🌎: 
 
 
