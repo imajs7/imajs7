@@ -8,7 +8,7 @@ I'm a software engineer working as a freelance developer for the last five  year
 
 | Title | Description | Technologies Used | Link |
 | ------ | ----------- | ----------------- | ----- |
-| Invoicing System   | Invoicing System for small business | Java, Springboot, MySql, ReactJS, Redux, Restfull API |
+| Invoicing System   | Invoicing System for small business | Java, Springboot, MySql, ReactJS, Redux, Restfull API | <uder development> |
 
 ## Find me around the web 🌎: 
 
