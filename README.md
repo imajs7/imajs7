@@ -8,7 +8,7 @@ I'm a software engineer working as a freelance developer for the last five  year
 
 | Title | Description | Technologies Used |
 | ------ | ----------- | ----------------- |
-| <a href="#" target="_blank">Invoicing System</a> | Invoicing System for small business | Java, Springboot, MySql, ReactJS, Redux, Restfull API |
+| <a href="https://github.com/imajs7/jsm-blog-backend" target="_blank">CMS Backend</a> | Ongoing project on Backend for Content Management System (blog) | Java, Springboot, MySql, Restfull API |
 
 ## Find me around the web 🌎: 
 
