@@ -9,7 +9,6 @@ I'm a software engineer working as a freelance developer for the last five  year
 | Title | Description | Technologies Used |
 | ------ | ----------- | ----------------- |
 | [<a href="https://github.com/imajs7/jsm-blog-backend" target="_blank">CMS Backend</a>](https://github.com/imajs7/jsm-blog-backend) | Ongoing project on Backend for Content Management System (blog) | Java, Springboot, MySql, Restfull API |
-| [<a href="https://github.com/imajs7/jecom" target="_blank">Jecom Theme</a>](https://github.com/imajs7/jecom) | Ongoing project on woocommerce compatible WordPress theme | Php, MySql, Boostrap 5 |
 
 ## Find me around the web 🌎: 
 
