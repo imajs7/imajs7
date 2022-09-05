@@ -2,7 +2,7 @@
 
 I'm a software engineer working as a freelance developer for the last five  years. Developing web apps for ecommerce and other businesses. Hosting and managing webistes using Cloud Infrastructure leveraging the power of Jenkins & Docker.
 
-<!-- ![](https://github.com/imajs7/imajs7/blob/main/my-git-cover.png) -->
+![http://anuragjaisingh.com](https://github.com/imajs7/imajs7/blob/main/2022-09-06.png)
 
 ## Projects
 
