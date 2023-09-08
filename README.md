@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer working as a freelance developer for the last five  years. Developing web apps for ecommerce and other businesses. Hosting and managing webistes using Cloud Infrastructure leveraging the power of Jenkins & Docker.
+Experienced Technical Lead with a proven track record in driving AI solutions and high-performance development. With over a decade of experience in the IT industry, I bring a wealth of knowledge and expertise to the table. My 7+ years of hands-on experience in Full Stack Development, coupled with a specialization in Cloud Computing and DevOps, has enabled me to lead innovative projects and deliver tangible results. Let's connect and explore opportunities to collaborate and drive technological excellence.
 
-![http://anuragjaisingh.com](https://github.com/imajs7/imajs7/blob/main/2022-09-06.png)
+![http://blog.merncloud.com](https://github.com/imajs7/imajs7/blob/main/2022-09-06.png)
 
 ## Projects
 
