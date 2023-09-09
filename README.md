@@ -2,6 +2,8 @@
 
 Experienced Technical Lead with a proven track record in driving AI solutions and high-performance development. With over a decade of experience in the IT industry, I bring a wealth of knowledge and expertise to the table. My 7+ years of hands-on experience in Full Stack Development, coupled with a specialization in Cloud Computing and DevOps, has enabled me to lead innovative projects and deliver tangible results. Let's connect and explore opportunities to collaborate and drive technological excellence.
 
+<img src="https://raw.githubusercontent.com/imajs7/imajs7/main/Screenshot%202023-09-10%20at%201.58.59%20AM.png" alt="Header Image">
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imajs7-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/imajs7)
@@ -25,15 +27,11 @@ Here are some of my featured projects:
 
 ### [Ecommerce webapp with Next.js, GraphQL, and WordPress](https://gitlab.com/headless-cms/kbathbrewery-frontend)
 
-[![Project 1](https://raw.githubusercontent.com/imajs7/imajs7/main/Screenshot%202023-09-10%20at%201.43.43%20AM.png)](https://gitlab.com/headless-cms/kbathbrewery-frontend)
-
 Experience a modern, lightning-fast blog site that seamlessly combines the power of Headless WordPress, Next.js, GraphQL, and the elegance of Tailwind CSS.
 
 Built using Headless WordPress, Next.js, GraphQL, and Tailwind CSS, this project is a high-performance blog site that combines dynamic content management, stunning design, and lightning-fast loading times. Explore engaging articles with interactive features in a secure and scalable environment.
 
-### [Project 2 Name](Project2URL)
-
-[![Project 2](Project2ImageURL)](Project2URL)
+### [Remix Dashboard with NodeJs Backend & ElasticSearch](https://gitlab.com/jsco-inhouse/blogr-expressjs-backend)
 
 Project 2 Description goes here.
 
