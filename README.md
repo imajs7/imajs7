@@ -33,7 +33,9 @@ Built using Headless WordPress, Next.js, GraphQL, and Tailwind CSS, this project
 
 ### [Remix Dashboard with NodeJs Backend & ElasticSearch](https://gitlab.com/jsco-inhouse/blogr-expressjs-backend)
 
-Project 2 Description goes here.
+Experience the power of Remix, enhanced with a robust Node.js backend and Elasticsearch integration. Our Remix Dashboard project offers a dynamic and responsive interface for managing and analyzing your data with speed and precision.
+
+Remix Dashboard combines the speed of Remix with a secure Node.js backend and Elasticsearch integration. Gain real-time insights, create custom data visualizations, and streamline data management effortlessly.
 
 ### [Project 3 Name](Project3URL)
 
@@ -41,6 +43,6 @@ Project 2 Description goes here.
 
 Project 3 Description goes here.
 
-Feel free to explore more of my work on [GitHub](https://github.com/YourGitHubUsername).
+Feel free to explore more of my work on [GitHub](https://github.com/imajs7).
 
 Let's collaborate and build something amazing together! 😄
