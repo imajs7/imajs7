@@ -37,11 +37,11 @@ Experience the power of Remix, enhanced with a robust Node.js backend and Elasti
 
 Remix Dashboard combines the speed of Remix with a secure Node.js backend and Elasticsearch integration. Gain real-time insights, create custom data visualizations, and streamline data management effortlessly.
 
-### [Project 3 Name](Project3URL)
+### [Kafka NestJs Microservice](https://gitlab.com/kafka-nestjs-app)
 
-[![Project 3](Project3ImageURL)](Project3URL)
+Discover the future of scalable and event-driven microservices with our Kafka-powered project built using Nest.js.
 
-Project 3 Description goes here.
+Experience the power of event-driven microservices with our Nest.js-based Kafka project. Achieve scalability, reliability, and real-time data processing, all while maintaining a flexible and customizable architecture. Explore the future of microservices with us.
 
 Feel free to explore more of my work on [GitHub](https://github.com/imajs7).
 
