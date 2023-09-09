@@ -1,35 +1,46 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
 Experienced Technical Lead with a proven track record in driving AI solutions and high-performance development. With over a decade of experience in the IT industry, I bring a wealth of knowledge and expertise to the table. My 7+ years of hands-on experience in Full Stack Development, coupled with a specialization in Cloud Computing and DevOps, has enabled me to lead innovative projects and deliver tangible results. Let's connect and explore opportunities to collaborate and drive technological excellence.
 
-![http://blog.merncloud.com](https://github.com/imajs7/imajs7/blob/main/2022-09-06.png)
+## Connect with Me
 
-## Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/imajs7)
+[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue?style=flat-square&logo=twitter)](https://twitter.com/imajs7)
+[![Website](https://img.shields.io/badge/Website-YourWebsiteURL-blue?style=flat-square)](blog.merncloud.com)
 
-| Title | Description | Technologies Used |
-| ------ | ----------- | ----------------- |
-| [<a href="https://github.com/imajs7/jsm-blog-backend" target="_blank">CMS Backend</a>](https://github.com/imajs7/jsm-blog-backend) | Ongoing project on Backend for Content Management System (blog) | Java, Springboot, MySql, Restful API |
-| [<a href="https://github.com/imajs7/movtips-react-project" target="_blank">MovTips</a>](https://github.com/imajs7/movtips-react-project) | React Js project for showcasing movie catelogue | ReactJs, Styled-component, Express Js, Restful API |
+## 🔧 Technologies & Tools
 
-## Find me around the web 🌎: 
+- AI and Machine Learning
+- Full Stack Development
+- Cloud Computing (AWS, Azure, GCP)
+- DevOps (Docker, Kubernetes, CI/CD)
+- Python, JavaScript, Java, Php
+- ReactJs, NextJs, Remix
+- NodeJs, NestJs, Springboot, Spring MVC, Django, Laravel
+- SQL, NoSQL Databases
 
+## 🚀 Featured Projects
 
-- Follow me on Twitter <a href="https://www.twitter.com/imajs7">Twitter</a> ✍🏾
-- Find me on <a href="https://facebook.com/imajs7">Facebook</a> 😄
-- Sharing updates on <a href="https://www.linkedin.com/in/imajs7/">LinkedIn</a> 💼
+Here are some of my featured projects:
 
+### [Jecommerce Headless E-Store](https://gitlab.com/headless-cms/kbathbrewery-frontend)
 
-<!--
-**imajs7/imajs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Project 1](Project1ImageURL)](https://github.com/imajs7/imajs7/blob/main/Screenshot%202023-09-10%20at%201.43.43%20AM.png?raw=true)
 
-Here are some ideas to get you started:
+Project 1 Description goes here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Project 2 Name](Project2URL)
+
+[![Project 2](Project2ImageURL)](Project2URL)
+
+Project 2 Description goes here.
+
+### [Project 3 Name](Project3URL)
+
+[![Project 3](Project3ImageURL)](Project3URL)
+
+Project 3 Description goes here.
+
+Feel free to explore more of my work on [GitHub](https://github.com/YourGitHubUsername).
+
+Let's collaborate and build something amazing together! 😄
