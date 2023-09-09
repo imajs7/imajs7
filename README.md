@@ -5,8 +5,8 @@ Experienced Technical Lead with a proven track record in driving AI solutions an
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imajs7-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/imajs7)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterHandle-blue?style=flat-square&logo=twitter)](https://twitter.com/imajs7)
-[![Website](https://img.shields.io/badge/Website-YourWebsiteURL-blue?style=flat-square)](blog.merncloud.com)
+[![Twitter](https://img.shields.io/badge/Twitter-imajs7-blue?style=flat-square&logo=twitter)](https://twitter.com/imajs7)
+[![Website](https://img.shields.io/badge/Website-blog.merncloud.com-blue?style=flat-square)](blog.merncloud.com)
 
 ## 🔧 Technologies & Tools
 
