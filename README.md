@@ -1,6 +1,6 @@
 # Hi there, I'm Anurag Jaisingh 👋
 
-Experienced Technical Lead with a proven track record in driving AI solutions and high-performance development. With over a decade of experience in the IT industry, I bring a wealth of knowledge and expertise to the table. My 7+ years of hands-on experience in Full Stack Development, coupled with a specialization in Cloud Computing and DevOps, has enabled me to lead innovative projects and deliver tangible results. Let's connect and explore opportunities to collaborate and drive technological excellence.
+Experienced Technical Architect with a proven track record in driving AI solutions and high-performance development. With over a decade of experience in the IT industry, I bring a wealth of knowledge and expertise to the table. My 7+ years of hands-on experience in Full Stack Development, coupled with a specialization in Cloud Computing and DevOps, has enabled me to lead innovative projects and deliver tangible results. Let's connect and explore opportunities to collaborate and drive technological excellence.
 
 <img src="https://raw.githubusercontent.com/imajs7/imajs7/main/Screenshot%202023-09-10%20at%201.58.59%20AM.png" alt="Header Image">
 
